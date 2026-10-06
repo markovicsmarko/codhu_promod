@@ -126,7 +126,7 @@
 		}
 		itemDef
 		{
-			text			"www.callofduty.hu"
+			text			"callofduty.hu"
 			style			0
 			textscale		0.2
 			textstyle		3
@@ -206,7 +206,7 @@
 		{
 			type			ITEM_TYPE_BUTTON
 			rect			CHOICE_RECT( 2 )
-			exp				text( "About Promod" );
+			exp				text( "CALLOFDUTY.HU" );
 			textfont		CHOICE_TEXTFONT
 			textscale		CHOICE_TEXTSIZE
 			textstyle		CHOICE_TEXTSTYLE
