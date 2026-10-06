@@ -111,7 +111,7 @@
 		}
 		itemDef
 		{
-			text			"Call of Duty 4 Promod"
+			text			"PROJECT CODHU"
 			style			0
 			textscale		0.3
 			textstyle		3
@@ -126,7 +126,7 @@
 		}
 		itemDef
 		{
-			text			"www.codpromod.com"
+			text			"www.callofduty.hu"
 			style			0
 			textscale		0.2
 			textstyle		3
@@ -141,7 +141,7 @@
 		}
 		itemDef
 		{
-			text			"Current Promod Version: LIVE V2.20 EU"
+			text			"Jelenlegi verzio: LIVE V2.21 HU"
 			style			0
 			textscale		0.25
 			textstyle		3
@@ -156,7 +156,7 @@
 		}
 		itemDef
 		{
-			text			"Maintained by Ingram"
+			text			"Fejlesztette: vERKE"
 			style			0
 			textscale		0.25
 			textstyle		3
@@ -171,7 +171,7 @@
 		}
 		itemDef
 		{
-			text			"Former developers: raf1, MavLP, bulletworm, Trivve"
+			text			"Korabbi fejlesztok: Ingram, raf1, MavLP, bulletworm, Trivve"
 			style			0
 			textscale		0.25
 			textstyle		3
@@ -186,7 +186,7 @@
 		}
 		itemDef
 		{
-			text			"Also thanks to everyone else involved in Promod!"
+			text			"Koszonjuk mindenki hozzajarulasat a fejleszteshez!"
 			style			0
 			textscale		0.25
 			textstyle		3
